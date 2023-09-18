@@ -1,0 +1,19 @@
+/*
+** This is a beautiful code example that adheres to the Betty style guidelines.
+*/
+
+#include <stdio.h>
+
+/**
+ * main - Entry point of the program
+ *
+ * Description: This is the main function that prints "Hello, Betty!"
+ *              to the standard output.
+ *
+ * Return: 0 (Success)
+ */
+int main(void)
+{
+    printf("Hello, Betty!\n");
+    return (0);
+}
