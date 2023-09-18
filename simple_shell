@@ -7,8 +7,7 @@
 /**
  * main - Entry point of the program
  *
- * Description: This is the main function that prints "Hello, Betty!"
- *              to the standard output.
+ * Description: This is the main function that prints to the standard output.
  *
  * Return: 0 (Success)
  */
