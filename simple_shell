@@ -15,5 +15,7 @@
 int main(void)
 {
     printf("Hello, Betty!\n");
+    printf("Hello, this is Lizzy!\n");
+
     return (0);
 }
